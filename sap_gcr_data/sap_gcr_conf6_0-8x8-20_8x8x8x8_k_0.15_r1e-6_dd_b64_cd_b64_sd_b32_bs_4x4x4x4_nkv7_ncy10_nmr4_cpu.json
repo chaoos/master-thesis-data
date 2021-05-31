@@ -1,0 +1,44 @@
+{
+  "gpu": false,
+  "infile": "../matrix/cgne_init_4096_dble_csr.dat",
+  "matfile": "../matrix/conf6_0-8x8-20/conf6_0-8x8-20.mtx",
+  "k": 0.15,
+  "kc": 0.15717,
+  "reordering": true,
+  "preconditioning": true,
+  "vol": 4096,
+  "dim": 49152,
+  "lattice": "8x8x8x8",
+  "blk_dim": 3072,
+  "bs": "4x4x4x4",
+  "res": 1e-06,
+  "tol": 0.0003135346870547978,
+  "nmx": 250,
+  "nkv": 7,
+  "nmr": 4,
+  "ncy": 10,
+  "sdtype": "float32",
+  "ddtype": "float64",
+  "cdtype": "float64",
+  "rn": [
+    2.514520843215405,
+    0.2441777323247473,
+    0.025588299996520944,
+    0.002576828700726137,
+    0.00026635180002675834,
+    0.0002732897260016492
+  ],
+  "i": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "reset": [
+    5
+  ],
+  "duration": 1.5551834106445312,
+  "status": 5
+}

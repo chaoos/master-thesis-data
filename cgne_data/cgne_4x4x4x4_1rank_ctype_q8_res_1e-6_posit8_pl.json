@@ -1,0 +1,46 @@
+{
+  "res": 1e-06,
+  "tol": 8e-06,
+  "vol": 256,
+  "nmx": 256,
+  "sdtype": "posit8",
+  "ddtype": "float64",
+  "cdtype": "posit8",
+  "i": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "ai": [
+    1.0,
+    Infinity
+  ],
+  "bi": [
+    1.0,
+    Infinity
+  ],
+  "reset": [
+    2,
+    4
+  ],
+  "rn": [
+    8.0,
+    8.0,
+    Infinity,
+    Infinity
+  ],
+  "Axmb": [
+    1801.9975080668412,
+    1801.9975080668412,
+    NaN,
+    NaN
+  ],
+  "diAdip1": [
+    8.0,
+    "unknown",
+    Infinity,
+    "unknown"
+  ],
+  "status": -2
+}

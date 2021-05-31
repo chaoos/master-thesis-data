@@ -1,0 +1,55 @@
+{
+  "gpu": false,
+  "device": "cpu",
+  "infile": "../matrix/fgcr_check3_4096_dble_csr.dat",
+  "matfile": "../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx",
+  "k": 0.05,
+  "kc": 0.15649,
+  "reordering": true,
+  "preconditioning": true,
+  "vol": 4096,
+  "dim": 49152,
+  "lattice": "8x8x8x8",
+  "blk_dim": 3072,
+  "bs": "4x4x4x4",
+  "res": 1e-09,
+  "tol": 3.1353468707624677e-07,
+  "nmx": 450,
+  "nkv": 7,
+  "nmr": 10,
+  "ncy": 6,
+  "sdtype": "float64",
+  "ddtype": "float64",
+  "cdtype": "float64",
+  "extension": 0,
+  "ext_alpha": 0.9,
+  "ext_beta": 1,
+  "deflation": true,
+  "dfl_little": "../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x2x2x2.dat",
+  "dfl_nmx": 256,
+  "dfl_res": 0.01,
+  "rn": [
+    4.384357405792201e-08,
+    4.3843573854132696e-08
+  ],
+  "i": [
+    0,
+    1
+  ],
+  "reset": [
+    1
+  ],
+  "duration": [
+    2.780996799468994,
+    2.781510353088379,
+    2.783396005630493,
+    2.7767751216888428,
+    2.7819507122039795,
+    2.7776873111724854,
+    2.814342975616455,
+    2.8215339183807373,
+    2.8575475215911865,
+    2.790572166442871
+  ],
+  "status": 1
+}

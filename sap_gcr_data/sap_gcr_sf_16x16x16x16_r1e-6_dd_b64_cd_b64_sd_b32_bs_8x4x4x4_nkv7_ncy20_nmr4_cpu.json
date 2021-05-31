@@ -1,0 +1,42 @@
+{
+  "gpu": false,
+  "infile": "../matrix/cgne_init_65536_dble_csr.dat",
+  "matfile": null,
+  "k": 0.0,
+  "kc": 0.0,
+  "reordering": false,
+  "preconditioning": true,
+  "vol": 65536,
+  "dim": 786048,
+  "lattice": "16x16x16x16",
+  "blk_dim": 6141,
+  "bs": "8x4x4x4",
+  "res": 1e-06,
+  "tol": 0.0012541387482794752,
+  "nmx": 125,
+  "nkv": 7,
+  "nmr": 4,
+  "ncy": 20,
+  "sdtype": "float32",
+  "ddtype": "float64",
+  "cdtype": "float64",
+  "rn": [
+    27.38608570074363,
+    0.8300952891660561,
+    0.019523078982777418,
+    0.0005190987998404935,
+    0.0006204610784417197
+  ],
+  "i": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "reset": [
+    4
+  ],
+  "duration": 18.33449697494507,
+  "status": 4
+}

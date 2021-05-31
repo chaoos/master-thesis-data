@@ -1,0 +1,44 @@
+
+Check and performance of the SAP+GCR solver
+-------------------------------------------
+
+8x8x8x8 lattice, 1x1x1x1 process grid, 8x8x8x8 local lattice
+
+Gauge group: SU(3)xU(1)
+
+Periodic boundary conditions in space
+SF boundary conditions in time
+Physical lattice 8x8x8x8
+su3phi = 0.12,-0.56,0.44
+su3phi' = 0.92,0.76,-1.68
+u1phi = 1.32
+u1phi' = -0.92
+
+mu = 2.000000
+eoflg = 1
+
+bs = (4,4,4,4)
+nmr = 12
+ncy = 2
+
+nkv = 7
+nmx = 417
+res = 1.00e-06
+
+Configurations pedro01n20 -> pedro01n20 in steps of 1
+
+Configuration type SU(3)xU(1) no 20
+isolv = 0:
+status = 8
+rho   = 8.46e-05, res   = 1.00e-06
+check = 8.46e-05, check = 4.08e-07
+time = 7.81e-01 sec (total)
+     = 2.38e+01 usec (per point and GCR iteration)
+
+isolv = 1:
+status = 35
+rho   = 2.04e-04, res   = 1.00e-06
+check = 2.04e-04, check = 9.83e-07
+time = 3.32e+00 sec (total)
+     = 2.32e+01 usec (per point and GCR iteration)
+

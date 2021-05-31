@@ -1,0 +1,503 @@
+--------------------started-------------------
+1/100
+2/100
+3/100
+4/100
+5/100
+failed: ./dfl_sap_gcr.py -n 20 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 1  --nmr 1  --nmx 10240 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x4x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy1_nmr1_Ns20_nb8_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+6/100
+failed: ./dfl_sap_gcr.py -n 20 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 1  --nmr 1  --nmx 10240 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x4x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy1_nmr1_Ns20_nb16_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+7/100
+--------------------started-------------------
+1/100
+2/100
+3/100
+4/100
+5/100
+--------------------started-------------------
+1/100
+2/100
+3/100
+4/100
+5/100
+failed: ./dfl_sap_gcr.py -n 20 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 1  --nmr 1  --nmx 10240 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x4x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy1_nmr1_Ns20_nb8_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+6/100
+failed: ./dfl_sap_gcr.py -n 20 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 1  --nmr 1  --nmx 10240 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x4x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy1_nmr1_Ns20_nb16_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+7/100
+--------------------started-------------------
+1/100
+2/100
+3/100
+4/100
+5/100
+6/100
+7/100
+8/100
+9/100
+--------------------started-------------------
+1/100
+2/100
+3/100
+4/100
+5/100
+6/100
+7/100
+8/100
+9/100
+10/100
+11/100
+12/100
+13/100
+14/100
+15/100
+16/100
+17/100
+failed: ./dfl_sap_gcr.py -n 20 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 1  --nmr 2  --nmx 5120 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x4x4x2.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy1_nmr2_Ns20_nb32_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+18/100
+--------------------started-------------------
+1/100
+2/100
+3/100
+4/100
+5/100
+6/100
+7/100
+8/100
+9/100
+10/100
+11/100
+12/100
+13/100
+14/100
+15/100
+16/100
+17/100
+18/100
+19/100
+20/100
+failed: ./dfl_sap_gcr.py -n 20 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 1  --nmr 4  --nmx 2560  --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy1_nmr4_Ns0_nb0_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+21/100
+failed: ./dfl_sap_gcr.py -n 20 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 1  --nmr 4  --nmx 2560 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns5_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy1_nmr4_Ns5_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+22/100
+failed: ./dfl_sap_gcr.py -n 20 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 1  --nmr 4  --nmx 2560 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns10_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy1_nmr4_Ns10_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+23/100
+--------------------started-------------------
+1/100
+2/100
+3/100
+4/100
+5/100
+6/100
+7/100
+8/100
+9/100
+10/100
+11/100
+12/100
+13/100
+14/100
+15/100
+16/100
+17/100
+18/100
+19/100
+20/100
+21/100
+22/100
+23/100
+24/100
+25/100
+26/100
+27/100
+28/100
+29/100
+30/100
+31/100
+32/100
+33/100
+34/100
+35/100
+36/100
+37/100
+38/100
+39/100
+40/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 4  --nmx 640  --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr4_Ns0_nb0_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+41/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 4  --nmx 640 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns5_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr4_Ns5_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+42/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 4  --nmx 640 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns10_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr4_Ns10_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+43/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 4  --nmx 640 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr4_Ns20_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+44/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 4  --nmx 640 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x8x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr4_Ns20_nb4_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+45/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 4  --nmx 640 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x4x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr4_Ns20_nb8_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+46/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 4  --nmx 640 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x4x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr4_Ns20_nb16_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+47/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 4  --nmx 640 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x4x4x2.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr4_Ns20_nb32_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+48/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 4  --nmx 640 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x4x2x2.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr4_Ns20_nb64_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+49/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 4  --nmx 640 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x2x2x2.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr4_Ns20_nb128_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+50/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 6  --nmx 512  --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr6_Ns0_nb0_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+51/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 6  --nmx 512 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns5_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr6_Ns5_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+52/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 6  --nmx 512 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns10_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr6_Ns10_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+53/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 6  --nmx 512 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr6_Ns20_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+54/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 6  --nmx 512 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x8x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr6_Ns20_nb4_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+55/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 6  --nmx 512 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x4x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr6_Ns20_nb8_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+56/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 6  --nmx 512 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x4x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr6_Ns20_nb16_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+57/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 6  --nmx 512 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x4x4x2.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr6_Ns20_nb32_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+58/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 6  --nmx 512 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x4x2x2.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr6_Ns20_nb64_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+59/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 6  --nmx 512 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x2x2x2.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr6_Ns20_nb128_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+60/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 6  --nmr 6  --nmx 400  --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy6_nmr6_Ns0_nb0_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+61/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 6  --nmr 6  --nmx 400 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns5_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy6_nmr6_Ns5_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+62/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 6  --nmr 6  --nmx 400 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns10_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy6_nmr6_Ns10_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+63/100
+--------------------started-------------------
+1/100
+2/100
+3/100
+4/100
+5/100
+6/100
+7/100
+8/100
+9/100
+10/100
+11/100
+12/100
+13/100
+14/100
+15/100
+16/100
+17/100
+18/100
+19/100
+20/100
+21/100
+22/100
+23/100
+24/100
+25/100
+26/100
+27/100
+28/100
+29/100
+30/100
+31/100
+32/100
+33/100
+34/100
+35/100
+36/100
+37/100
+38/100
+39/100
+40/100
+41/100
+42/100
+43/100
+44/100
+45/100
+46/100
+47/100
+48/100
+49/100
+50/100
+51/100
+52/100
+53/100
+54/100
+55/100
+56/100
+57/100
+58/100
+59/100
+60/100
+61/100
+62/100
+63/100
+64/100
+65/100
+66/100
+67/100
+68/100
+69/100
+70/100
+71/100
+72/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 20 --nmx 384 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns10_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr20_Ns10_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+73/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 20 --nmx 384 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr20_Ns20_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+74/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 20 --nmx 384 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x8x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr20_Ns20_nb4_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+75/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 20 --nmx 384 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x4x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr20_Ns20_nb8_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+76/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 20 --nmx 384 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x4x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr20_Ns20_nb16_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+77/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 20 --nmx 384 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x4x4x2.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr20_Ns20_nb32_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+78/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 20 --nmx 384 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x4x2x2.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr20_Ns20_nb64_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+79/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 4  --nmr 20 --nmx 384 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x2x2x2.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy4_nmr20_Ns20_nb128_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+80/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 10 --nmr 10 --nmx 256  --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy10_nmr10_Ns0_nb0_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+81/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 10 --nmr 10 --nmx 256 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns5_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy10_nmr10_Ns5_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+82/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 10 --nmr 10 --nmx 256 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns10_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy10_nmr10_Ns10_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+83/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 10 --nmr 10 --nmx 256 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy10_nmr10_Ns20_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+84/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 10 --nmr 10 --nmx 256 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x8x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy10_nmr10_Ns20_nb4_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+85/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 10 --nmr 10 --nmx 256 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x4x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy10_nmr10_Ns20_nb8_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+86/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 10 --nmr 10 --nmx 256 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x4x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy10_nmr10_Ns20_nb16_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+87/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 10 --nmr 10 --nmx 256 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x4x4x2.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy10_nmr10_Ns20_nb32_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+88/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 10 --nmr 10 --nmx 256 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x4x2x2.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy10_nmr10_Ns20_nb64_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+89/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 10 --nmr 10 --nmx 256 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x2x2x2.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy10_nmr10_Ns20_nb128_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+90/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 20 --nmr 20 --nmx 128  --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy20_nmr20_Ns0_nb0_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+91/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 20 --nmr 20 --nmx 128 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns5_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy20_nmr20_Ns5_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+92/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 20 --nmr 20 --nmx 128 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns10_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy20_nmr20_Ns10_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+93/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 20 --nmr 20 --nmx 128 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy20_nmr20_Ns20_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+94/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 20 --nmr 20 --nmx 128 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x8x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy20_nmr20_Ns20_nb4_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+95/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 20 --nmr 20 --nmx 128 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x4x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy20_nmr20_Ns20_nb8_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+96/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 20 --nmr 20 --nmx 128 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x4x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy20_nmr20_Ns20_nb16_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+97/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 20 --nmr 20 --nmx 128 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x4x4x2.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy20_nmr20_Ns20_nb32_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+98/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 20 --nmr 20 --nmx 128 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x4x2x2.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy20_nmr20_Ns20_nb64_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+99/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 20 --nmr 20 --nmx 128 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x2x2x2.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy20_nmr20_Ns20_nb128_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+100/100
+--------------------stopped-------------------
+--------------------started-------------------
+1/100
+2/100
+3/100
+4/100
+5/100
+6/100
+7/100
+8/100
+9/100
+10/100
+11/100
+12/100
+13/100
+14/100
+15/100
+16/100
+17/100
+18/100
+19/100
+20/100
+21/100
+22/100
+23/100
+24/100
+25/100
+26/100
+27/100
+28/100
+29/100
+30/100
+31/100
+32/100
+33/100
+34/100
+35/100
+36/100
+37/100
+38/100
+39/100
+40/100
+41/100
+42/100
+43/100
+44/100
+45/100
+46/100
+47/100
+48/100
+49/100
+50/100
+51/100
+52/100
+53/100
+54/100
+55/100
+56/100
+57/100
+58/100
+59/100
+60/100
+61/100
+62/100
+63/100
+64/100
+65/100
+66/100
+67/100
+68/100
+69/100
+70/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 6  --nmr 10 --nmx 450  --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy6_nmr10_Ns0_nb0_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+71/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 6  --nmr 10 --nmx 450 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns5_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy6_nmr10_Ns5_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+72/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 6  --nmr 10 --nmx 450 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns10_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy6_nmr10_Ns10_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+73/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 6  --nmr 10 --nmx 450 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy6_nmr10_Ns20_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+74/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 6  --nmr 10 --nmx 450 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x8x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy6_nmr10_Ns20_nb4_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+75/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 6  --nmr 10 --nmx 450 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x4x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy6_nmr10_Ns20_nb8_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+76/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 6  --nmr 10 --nmx 450 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x4x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy6_nmr10_Ns20_nb16_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+77/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 6  --nmr 10 --nmx 450 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x4x4x2.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy6_nmr10_Ns20_nb32_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+78/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 6  --nmr 10 --nmx 450 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x4x2x2.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy6_nmr10_Ns20_nb64_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+79/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 6  --nmr 10 --nmx 450 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs4x2x2x2.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy6_nmr10_Ns20_nb128_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+80/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 10 --nmr 10 --nmx 256  --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy10_nmr10_Ns0_nb0_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+81/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 10 --nmr 10 --nmx 256 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns5_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy10_nmr10_Ns5_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+82/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 10 --nmr 10 --nmx 256 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns10_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy10_nmr10_Ns10_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+83/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 10 --nmr 10 --nmx 256 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x8x8x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy10_nmr10_Ns20_nb2_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+84/100
+failed: ./dfl_sap_gcr.py -n 10 -r 1e-9 -i ../matrix/fgcr_check3_4096_dble_csr.dat -m ../matrix/conf6_0-8x8-30/conf6.0-00l8x8-3000.mtx -kc 0.15649 -k 0.15649 --ddtype binary64 --cdtype binary64 --sdtype binary64 -b0 4 -b1 4 -b2 4 -b3 4 --nkv 7 --ncy 10 --nmr 10 --nmx 256 -l ../matrix/little/conf6.0-00l8x8-3000_little_Ns20_ninv5_ncy5_nmr4_bs8x8x4x4.dat --device cpu -o dfl_sap_post_processing/dfl_sap_gcr_conf6_0-8x8-30_8x8x8x8_k_0.15649_r1e-9_dd_b64_cd_b64_sd_b64_bs_4x4x4x4_nkv7_ncy10_nmr10_Ns20_nb4_cpu_batch1_ault23_cpu_conf6_0-8x8-30_8x8x8x8_k_0.15649.json
+85/100
+--------------------started-------------------
+1/100
+2/100
+3/100
+4/100
+5/100
+6/100
+7/100
+8/100
+9/100
+10/100
+11/100
+12/100
+13/100
+14/100
+15/100
+16/100
+17/100
+18/100
+19/100
+20/100
+21/100
+22/100
+23/100
+24/100
+25/100
+26/100
+27/100
+28/100
+29/100
+30/100
+31/100
+32/100
+33/100
+34/100
+35/100
+36/100
+37/100
+38/100
+39/100
+40/100
+41/100
+42/100
+43/100
+44/100
+45/100
+46/100
+47/100
+48/100
+49/100
+50/100
+51/100
+52/100
+53/100
+54/100
+55/100
+56/100
+57/100
+58/100
+59/100
+60/100
+61/100
+62/100
+63/100
+64/100
+65/100
+66/100
+67/100
+68/100
+69/100
+70/100
+71/100
+72/100
+73/100
+74/100
+75/100
+76/100
+77/100
+78/100
+79/100
+80/100
+81/100
+82/100
+83/100
+84/100
+85/100
+86/100
+87/100
+88/100
+89/100
+90/100
+91/100
+92/100
+93/100
+94/100
+95/100
+96/100
+97/100
+98/100
+99/100
+100/100
+--------------------stopped-------------------
