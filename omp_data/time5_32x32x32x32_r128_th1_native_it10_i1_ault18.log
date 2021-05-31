@@ -1,0 +1,22 @@
+
+Timing of Dw() and Dwhat()
+--------------------------
+
+32x32x32x32 lattice, 2x4x4x4 process grid, 16x8x8x8 local lattice
+
+There are 128 MPI processes
+The local size of the gauge field is 2304 KB
+The local size of a quark field is 768 KB
+
+Lattice parameters:
+beta = 5.5
+c0 = 1.0, c1 = 0.0
+csw = 1.978
+
+Open boundary conditions
+cF = 0.9012
+theta = 0.35,-1.25,0.78
+
+Absolute time of 10 invocations of Dw():
+65012.725 micro sec
+
